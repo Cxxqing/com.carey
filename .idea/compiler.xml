@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hystrix" />
         <module name="zuul" />
+        <module name="configclient" />
         <module name="nativeconfigserver" />
         <module name="resttemplate" />
         <module name="feign" />
